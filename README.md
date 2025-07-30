@@ -59,8 +59,7 @@ Develop SQL-based insights for:
 - 📦 **Product Performance**: Sales volume, revenue contribution, and trends
 - 📈 **Sales Trends**: Time-series analysis, shipping performance, and order fulfillment
 
-
-#------------------------------------------------------------------------------------------------------------
+--- 
 
  ## DATA ARCHITECTURE 
  
@@ -76,6 +75,7 @@ Develop SQL-based insights for:
 -  README and documentation for stakeholder clarity
 
 ## Hello
-My name is Kate and I am an aspiring data engineer, this is my first successful data engineering project. I am passionate about 
+My name is **Kate**, an aspiring **data engineer**. This is my first successful data engineering project. I am passionate about 
 transforming raw data into insights. 
+This project reflects my growing skills in data modeling, transformation, and SQL-based analytics — and I'm excited to share it with you.
 
